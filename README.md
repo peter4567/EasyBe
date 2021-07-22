@@ -6,3 +6,8 @@ some description
 ## subheader
 
 watcg tutorial on youtube
+
+## local developemt 
+
+1. Open inde.html in your browser
+ 
