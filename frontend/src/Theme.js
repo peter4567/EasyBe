@@ -1,7 +1,7 @@
 import {createTheme} from "@material-ui/core/styles";
 
 const easyBlue = "#283E56";
-const easyBeige = "#EEEBE5";
+const easyBeige = "#eeebe5";
 const easyYellow = "#FFF8DD";
 
 export default createTheme({
